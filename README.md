@@ -6,4 +6,5 @@
 # DO NOT PUT THE PYTHON SCRIPTS IN THE FOLDER WHERE YOUR ORGINAL MUSIC FOLDER IS.
 # This program is designed to find songs that have (1) or (2) in their name signifying copies of the same song.
 # This program will delete songs that contain (1) or (2) in them. [Even if it is your only copy of that song].
+# This program will NOT delete songs that contain 1 or 2. Ex- "Track 1" "21 Savage- Bank Account"
 # Always keep a copy folder of your music in the case of a malfunction.
